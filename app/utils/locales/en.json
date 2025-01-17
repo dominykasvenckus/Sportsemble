@@ -1,0 +1,228 @@
+{
+  "translation": {
+    "screens": {
+      "login": {
+        "headline": "Welcome!",
+        "title": "Log in to continue",
+        "resetPasswordPrompt": "Forgot password?",
+        "signUpPrompt": "Don't have an account?"
+      },
+      "signUp": {
+        "screenTitle": "Get started"
+      },
+      "resetPassword": {
+        "screenTitle": "Reset password",
+        "body": "Enter your email below, and we'll send you a secure link to reset your password."
+      },
+      "verifyEmail": {
+        "screenTitle": "",
+        "headline": "Check your email",
+        "bodyStart": "We've sent an email to",
+        "bodyEnd": "Click on the link in the email to verify your email address.",
+        "resendEmailPrompt": "Didn't receive the email?"
+      },
+      "profileSetup": {
+        "screenTitle": "",
+        "headline": "Profile setup"
+      },
+      "editProfile": {
+        "screenTitle": "Edit profile"
+      },
+      "account": {
+        "screenTitle": "Account"
+      },
+      "changeEmail": {
+        "screenTitle": "Change email",
+        "bodyStart": "Your email is currently",
+        "bodyEnd": "Enter your password and new email address below and we'll send you a verification link. Please note that the change won't be immediately visible."
+      },
+      "changePassword": {
+        "screenTitle": "Change password"
+      },
+      "followers": {
+        "screenTitle": "Followers"
+      },
+      "following": {
+        "screenTitle": "Following"
+      },
+      "viewProfile": {
+        "screenTitle": ""
+      },
+      "filters": {
+        "screenTitle": "Filters",
+        "unlimited": "Unlimited"
+      },
+      "addActivity": {
+        "screenTitle": "Add activity",
+        "mapText": "Drag the map to set the exact location."
+      },
+      "viewActivity": {
+        "screenTitle": "Activity details"
+      },
+      "viewParticipants": {
+        "screenTitle": "Participants"
+      },
+      "messages": {
+        "screenTitle": "",
+        "message": "Message"
+      },
+      "activities": {
+        "screenTitle": "Activities"
+      },
+      "people": {
+        "screenTitle": "People"
+      },
+      "chats": {
+        "screenTitle": "Chats",
+        "you": "You"
+      },
+      "profile": {
+        "screenTitle": "Profile"
+      }
+    },
+    "labels": {
+      "email": "Email",
+      "newEmail": "New email",
+      "password": "Password",
+      "currentPassword": "Current password",
+      "newPassword": "New password",
+      "privacyPolicyAgreement": "I agree to the",
+      "privacyPolicy": "privacy policy",
+      "fullName": "Full name",
+      "aboutMe": "About me",
+      "sport": "Sport",
+      "sports": "Sports",
+      "startDate": "Start date",
+      "endDate": "End date",
+      "startTime": "Start time",
+      "endTime": "End time",
+      "address": "Address",
+      "level": "Level",
+      "spotCount": "Spot count",
+      "pricePerPerson": "Price/person",
+      "additionalDetails": "Additional details",
+      "spotsLeft": "Spots left",
+      "price": "Price",
+      "free": "Free",
+      "selectAll": "Select all",
+      "radius": "Radius"
+    },
+    "placeholders": {
+      "search": "Search people"
+    },
+    "buttons": {
+      "cancel": "Cancel",
+      "ok": "OK",
+      "logIn": "Log in",
+      "signUp": "Sign up",
+      "getResetLink": "Get reset link",
+      "resend": "Resend",
+      "save": "Save",
+      "useCamera": "Use camera",
+      "selectFromPhotos": "Select from photos",
+      "followers": "Followers",
+      "following": "Following",
+      "editProfile": "Edit profile",
+      "account": "Account",
+      "logOut": "Log out",
+      "changeEmail": "Change email",
+      "getVerificationLink": "Get verification link",
+      "changePassword": "Change password",
+      "deleteAccount": "Delete account",
+      "follow": "Follow",
+      "unfollow": "Unfollow",
+      "message": "Message",
+      "add": "Add",
+      "all": "All",
+      "mine": "Mine",
+      "join": "Join",
+      "leave": "Leave",
+      "viewParticipants": "View participants",
+      "clear": "Clear",
+      "apply": "Apply",
+      "yes": "Yes",
+      "no": "No"
+    },
+    "errors": {
+      "generic": "An error occurred. Please try again later.",
+      "emailNotEntered": "Enter your email.",
+      "newEmailNotEntered": "Enter your new email.",
+      "passwordNotEntered": "Enter your password.",
+      "currentPasswordNotEntered": "Enter your current password.",
+      "newPasswordNotEntered": "Enter your new password.",
+      "fullNameNotEntered": "Enter your full name.",
+      "emailAlreadyInUse": "Email is already in use.",
+      "invalidEmail": "Email is invalid.",
+      "invalidNewEmail": "New email is invalid.",
+      "weakPassword": "Password should be at least 6 characters.",
+      "networkRequestFailed": "A network error occurred. Check your internet connection and try again.",
+      "privacyPolicyAgreementMissing": "Please confirm that you agree to the privacy policy.",
+      "invalidCredentials": "Wrong email or password.",
+      "invalidPassword": "Wrong password.",
+      "tooManyRequests": "Too many requests have been sent. Please wait for a moment and try again.",
+      "accountDisabled": "Your account has been disabled.",
+      "userTokenExpired": "Your session has expired. Please log in again.",
+      "sportNotSelected": "Select a sport.",
+      "startDateAndTimeNotInFuture": "Start date and time must be in the future.",
+      "endDateAndTimeNotInFuture": "End date and time must be in the future.",
+      "endDateAndTimeNotAfterStartDateAndTime": "End date and time must be after start date and time.",
+      "addressNotEntered": "Enter an address.",
+      "invalidAddress": "Unable to locate the address. Please ensure it is correct.",
+      "levelNotSelected": "Select a level.",
+      "spotCountNotEntered": "Enter spot count.",
+      "invalidSpotCount": "Invalid spot count.",
+      "spotCountTooLow": "Spot count must be greater than 1.",
+      "invalidPricePerPerson": "Invalid price per person.",
+      "pricePerPersonNotPositive": "Price per person must be non-negative.",
+      "locationUnavailable": "Could not obtain current location.",
+      "cannotJoinStartedActivity": "You cannot join an activity that has already started.",
+      "cannotLeaveStartedActivity": "You cannot leave an activity that has already started.",
+      "cannotCancelStartedActivity": "You cannot cancel an activity that has already started.",
+      "filtersGetFailure": "Could not load your filters.",
+      "filtersSetFailure": "Could not save your filters.",
+      "filtersRemoveFailure": "Could not clear your filters"
+    },
+    "confirmations": {
+      "activityCancellation": "Are you sure you want to cancel this activity? This action cannot be undone."
+    },
+    "success": {
+      "passwordResetLinkSent": "Password reset link has been sent successfully.",
+      "profileUpdated": "Profile has been updated successfully.",
+      "verificationLinkSent": "Verification link has been sent successfully.",
+      "passwordChanged": "Password has been changed successfully.",
+      "activityAdded": "Activity has been added successfully."
+    },
+    "sports": {
+      "badminton": "Badminton",
+      "basketball": "Basketball",
+      "cycling": "Cycling",
+      "football": "Football",
+      "running": "Running",
+      "tableTennis": "Table tennis",
+      "tennis": "Tennis",
+      "volleyball": "Volleyball"
+    },
+    "levels": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "all": "All"
+    },
+    "userList": {
+      "organizer": "Organizer",
+      "noUsersFound": "No users found"
+    },
+    "activityList": {
+      "canceled": "Canceled",
+      "and": "and",
+      "otherParticipate": "other participate",
+      "othersParticipate": "others participate",
+      "participates": "participates",
+      "away": "away",
+      "noActivitiesFound": "No activities found"
+    },
+    "chatList": {
+      "noChatsFound": "No chats found"
+    }
+  }
+}
